@@ -10,5 +10,4 @@
 * 💬 Ask me about anything. I'm open to any question
 * 📫 How to reach me: keithdinhcs@gmail.com or https://www.linkedin.com/in/kietdinhcs/
 * 😄 Pronouns: He, Kiet, KayDee, Keith, anything you want
-* ⚡ Fun fact: playing guitar and cooking are my hobbies
-
+* ⚡ Fun fact: I play guitar when bored and cook when feeling stressed.
