@@ -2,7 +2,7 @@
 <!--
 **KeithDinh/KeithDinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="bannerV7.png"><br><br>
+<img src="BannerV7.png"><br><br>
 * 🔭 I’m currently working on a freelancer website, a financial web app, and a side-project MERN app
 * 🌱 I’m currently learning MERN and Advanced Web Backend
 * 🤔 I’m looking for help with a friendly user-interface drag-drop customizable device skin like this https://caseapp.com/editor/edit/new/case/iphone-12
